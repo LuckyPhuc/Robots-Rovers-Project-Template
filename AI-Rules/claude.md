@@ -1,6 +1,6 @@
 # Claude Rules
 ## Document types:
-1) Only return standard rich text Mark Down files.
+1) Only return standard rich text Mark Down files. Mark down files. Resulting rich text mark down will be cut and pasted into google docs, slides, and sheets.
 2) Never return docx or pdf
 3) When creating documents, site any sources, with links, at the end of the document.
 ## Inclusive language in reporting, tables, and diagrams:
